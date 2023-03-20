@@ -1,0 +1,8 @@
+name: data-hub-analyzer
+
+channels:
+  - conda-forge
+  - anaconda
+
+dependencies:
+  - openpyxl
